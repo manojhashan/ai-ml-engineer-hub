@@ -103,6 +103,10 @@ The checklist retains the spreadsheet's original labels: **48 Beginner, 177 Inte
 
 ## The complete roadmap
 
+> [!TIP]
+> **Looking for the subtopics and videos? Click the colored CLICK TO OPEN bar in each phase below.**
+> පහළ හැම phase එකකම තියෙන පාට **CLICK TO OPEN** bar එක click කරන්න. ඒක ඇතුළේ subtopics සහ YouTube links තියෙනවා.
+
 **Video guide:** click **▶ Watch** for a lesson, **▶ Course** for a longer course, or **▶ Chapter** to start at a relevant course section. The creator is shown beside each link; hover over the link on desktop to see the exact video title. Some related topics share a lesson. For combined topics, a further lesson may cover the second concept.
 
 **Language:** resources are primarily in English. **Resource metadata checked:** 9 November 2026. See [how resources were selected](#resources-and-contributions).
@@ -120,7 +124,11 @@ Build confidence with the numbers, equations and graphs used throughout AI and m
 **Completion checkpoint:** Explain a function, rearrange a simple equation and calculate percentages.
 
 <details>
-<summary><strong>Open the learning checklist · 8 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-8_TOPICS_%2B_VIDEOS-2563eb?style=for-the-badge" alt="Click to open 8 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Basic Mathematics
 
@@ -159,7 +167,11 @@ Understand the mathematics behind model predictions, training and evaluation.
 **Completion checkpoint:** Explain vectors, derivatives, probability and gradient descent with worked examples.
 
 <details>
-<summary><strong>Open the learning checklist · 31 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-31_TOPICS_%2B_VIDEOS-2563eb?style=for-the-badge" alt="Click to open 31 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Linear Algebra
 
@@ -241,7 +253,11 @@ Write, debug and organize Python programs before using ML libraries.
 **Completion checkpoint:** Build a program with functions, file handling and error handling, and explain how it works.
 
 <details>
-<summary><strong>Open the learning checklist · 28 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-28_TOPICS_%2B_VIDEOS-2563eb?style=for-the-badge" alt="Click to open 28 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Python Basics
 
@@ -317,7 +333,11 @@ Turn raw datasets into clean tables, useful visualizations and clear findings.
 **Completion checkpoint:** Clean a dataset, create useful plots and explain your findings in a notebook.
 
 <details>
-<summary><strong>Open the learning checklist · 13 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-13_TOPICS_%2B_VIDEOS-2563eb?style=for-the-badge" alt="Click to open 13 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Python Libraries
 
@@ -366,7 +386,11 @@ Store, query and combine data for analysis and applications.
 **Completion checkpoint:** Design a small database and answer questions using joins, grouping and a window function.
 
 <details>
-<summary><strong>Open the learning checklist · 15 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-15_TOPICS_%2B_VIDEOS-2563eb?style=for-the-badge" alt="Click to open 15 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### SQL Fundamentals
 
@@ -418,7 +442,11 @@ Build baseline models, evaluate them fairly and improve them with evidence.
 **Completion checkpoint:** Compare models on suitable validation data and report metrics on an untouched test set.
 
 <details>
-<summary><strong>Open the learning checklist · 39 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-39_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 39 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### ML Fundamentals
 
@@ -506,7 +534,11 @@ Understand neural networks and train them with a deep learning framework.
 **Completion checkpoint:** Train a small neural network, inspect training curves and explain how you reduced overfitting.
 
 <details>
-<summary><strong>Open the learning checklist · 29 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-29_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 29 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Neural Network Fundamentals
 
@@ -582,7 +614,11 @@ Work with images and video through classification, detection and segmentation.
 **Completion checkpoint:** Evaluate an image model on held-out examples and inspect the cases where it fails.
 
 <details>
-<summary><strong>Open the learning checklist · 15 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-15_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 15 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Image Processing
 
@@ -634,7 +670,11 @@ Represent text and build systems that classify, compare and extract information.
 **Completion checkpoint:** Evaluate a text classifier and compare a simple baseline with a stronger representation.
 
 <details>
-<summary><strong>Open the learning checklist · 20 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-20_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 20 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Text Processing
 
@@ -694,7 +734,11 @@ Build applications around language models and understand adaptation and evaluati
 **Completion checkpoint:** Build an LLM application with structured results, an evaluation set and measured cost and latency.
 
 <details>
-<summary><strong>Open the learning checklist · 26 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-26_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 26 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### LLM Fundamentals
 
@@ -763,7 +807,11 @@ Connect language models to documents and evaluate retrieval as well as answers.
 **Completion checkpoint:** Build a document assistant with citations and test whether retrieval finds the evidence needed to answer.
 
 <details>
-<summary><strong>Open the learning checklist · 26 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-26_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 26 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### RAG Foundations
 
@@ -834,7 +882,11 @@ Build tool-using workflows with explicit state, permissions and evaluation.
 **Completion checkpoint:** Build a bounded workflow, test tool failures and add human approval for consequential actions.
 
 <details>
-<summary><strong>Open the learning checklist · 24 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-24_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 24 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Agent Fundamentals
 
@@ -900,7 +952,11 @@ Understand how AI applications connect to tools and data through Model Context P
 **Completion checkpoint:** Build a small MCP server, connect a client and test authorized and rejected tool requests.
 
 <details>
-<summary><strong>Open the learning checklist · 13 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-13_TOPICS_%2B_VIDEOS-7c3aed?style=for-the-badge" alt="Click to open 13 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### MCP Fundamentals
 
@@ -949,7 +1005,11 @@ Expose AI functionality through validated, documented and secure APIs.
 **Completion checkpoint:** Serve predictions or answers through an API with validation, error handling and tests.
 
 <details>
-<summary><strong>Open the learning checklist · 23 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-23_TOPICS_%2B_VIDEOS-059669?style=for-the-badge" alt="Click to open 23 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Web Fundamentals
 
@@ -1011,7 +1071,11 @@ Make projects reproducible, testable and easier to maintain and deliver.
 **Completion checkpoint:** Package a project with clear setup instructions, automated checks and a reproducible runtime.
 
 <details>
-<summary><strong>Open the learning checklist · 25 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-25_TOPICS_%2B_VIDEOS-059669?style=for-the-badge" alt="Click to open 25 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Developer Workflow
 
@@ -1080,7 +1144,11 @@ Track experiments, version artifacts and monitor AI behavior after deployment.
 **Completion checkpoint:** Reproduce an experiment, identify the deployed version and monitor quality, latency and failures.
 
 <details>
-<summary><strong>Open the learning checklist · 22 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-22_TOPICS_%2B_VIDEOS-059669?style=for-the-badge" alt="Click to open 22 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### MLOps Fundamentals
 
@@ -1145,7 +1213,11 @@ Understand cloud infrastructure and deploy a small AI service.
 **Completion checkpoint:** Deploy a small service, configure least-privilege access and explain its operating costs.
 
 <details>
-<summary><strong>Open the learning checklist · 17 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-17_TOPICS_%2B_VIDEOS-059669?style=for-the-badge" alt="Click to open 17 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### Cloud Fundamentals
 
@@ -1201,7 +1273,11 @@ Design reliable AI systems and communicate engineering tradeoffs.
 **Completion checkpoint:** Document a system design with evaluation, security, observability, scaling and cost tradeoffs.
 
 <details>
-<summary><strong>Open the learning checklist · 35 subtopics</strong></summary>
+<summary>
+  <img src="https://img.shields.io/badge/CLICK_TO_OPEN-35_TOPICS_%2B_VIDEOS-059669?style=for-the-badge" alt="Click to open 35 subtopics and YouTube lessons" />
+  <br />
+  <strong>📂 Expand this phase — topics, progress checkboxes &amp; YouTube lessons inside</strong>
+</summary>
 
 #### System Design
 
