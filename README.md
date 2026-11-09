@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI/ML Engineer Hub
+# AI/ML Engineer Roadmap Hub
 
 ### From your first Python program to production AI systems
 
